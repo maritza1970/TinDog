@@ -1,2 +1,1 @@
-# TinDog
-joke website project
+TinDog Starting Files
